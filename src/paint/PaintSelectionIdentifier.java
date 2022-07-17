@@ -1,0 +1,5 @@
+package paint;
+
+public enum PaintSelectionIdentifier {
+	PAINT_THICKNESS_ONE, PAINT_THICKNESS_TWO, PAINT_THICKNESS_THREE, PAINT_THICKNESS_FOUR, ERASER, FILLER;
+}
